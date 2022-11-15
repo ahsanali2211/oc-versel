@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g data-name="Group 8532">
+        <g data-name="Rectangle 245" style="stroke:#f23838;fill:none">
+            <rect width="30" height="30" rx="4" style="stroke:none"/>
+            <rect x=".5" y=".5" width="29" height="29" rx="3.5" style="fill:none"/>
+        </g>
+        <path data-name="Path 3471" d="M12.156 2.138H10.5A2.677 2.677 0 0 0 7.88 0H6.811a2.677 2.677 0 0 0-2.62 2.138H2.534a.535.535 0 0 0 0 1.069h.535v6.949a2.676 2.676 0 0 0 2.673 2.673h3.207a2.676 2.676 0 0 0 2.673-2.673V3.207h.534a.535.535 0 0 0 0-1.069zM6.811 1.069H7.88a1.607 1.607 0 0 1 1.512 1.069H5.3a1.607 1.607 0 0 1 1.511-1.069zm3.741 9.087a1.6 1.6 0 0 1-1.6 1.6h-3.21a1.6 1.6 0 0 1-1.6-1.6V3.207h6.414z" style="fill:#f23838" transform="translate(8 9)"/>
+        <path data-name="Path 3472" d="M9.535 14.276a.535.535 0 0 0 .535-.535v-3.206a.535.535 0 0 0-1.069 0v3.207a.535.535 0 0 0 .534.534z" transform="translate(4.741 4.345)" style="fill:#f23838"/>
+        <path data-name="Path 3473" d="M13.535 14.276a.535.535 0 0 0 .535-.535v-3.206a.535.535 0 0 0-1.069 0v3.207a.535.535 0 0 0 .534.534z" transform="translate(2.879 4.345)" style="fill:#f23838"/>
+    </g>
+</svg>

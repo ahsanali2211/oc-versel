@@ -1,0 +1,82 @@
+.gp-connect-profile {
+    max-height: 400px;
+    overflow: auto;
+}
+
+.gp-connect-profile h1 {
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: .5rem;
+    line-height: 2.5rem;
+    font-weight: 500;
+}
+
+.gp-connect-profile p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #212529;
+    font-size: .9rem;
+}
+
+.gp-connect-profile h2 {
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+    font-size: 14px;
+    line-height: 14px;
+    background: #e8ebfc;
+    color: #515151 !important;
+    padding: 6px;
+    font-weight: bold;
+}
+
+.gp-connect-profile table {
+    background: #fff;
+    border-collapse: collapse;
+    color: #444;
+    border: 1px solid #ddd;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.gp-connect-profile th {
+    border: 1px solid #e6e6e6;
+    text-align: left;
+    background: #f5f5f5;
+    vertical-align: top;
+    padding: 8px;
+}
+
+.gp-connect-profile td {
+    border: 1px solid #e6e6e6;
+    padding: 8px;
+    vertical-align: top;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 320px;
+    background-color: black;
+    color: #fff;
+     border-radius: 6px;
+    padding: 5px ;
+    font-size: 12px;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    right: 0;
+    margin-right: -10px;
+  }
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  .head-padding {
+    padding: 4px 16px;
+  }
+  .icon-margin {
+    margin-right: 12px;
+  }

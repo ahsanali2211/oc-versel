@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 185.1 185.1" style="enable-background:new 0 0 185.1 185.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#frame_00000132792655079676031470000000268581168436005556_);}
+	.st1{fill:none;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<linearGradient id="frame_00000069371985238043291510000006465678723509208477_" gradientUnits="userSpaceOnUse" x1="-196.7477" y1="-318.1597" x2="-191.4577" y2="-312.8697" gradientTransform="matrix(35 0 0 35 6886.2002 11135.6201)">
+		<stop  offset="0" style="stop-color:#FEBD11"/>
+		<stop  offset="1" style="stop-color:#F7921E"/>
+	</linearGradient>
+	<path id="frame" style="fill:url(#frame_00000069371985238043291510000006465678723509208477_);" d="M30.8,0h123.4
+		c17,0,30.8,13.8,30.9,30.9v123.4c0,17-13.8,30.8-30.9,30.9H30.8c-17,0-30.8-13.8-30.9-30.9V30.8C0,13.8,13.8,0,30.8,0z"/>
+	<g>
+		<g id="Rectangle_355">
+			<path class="st1" d="M74.1,42.3h37c11.7,0,21.2,9.5,21.2,21.2v58.2c0,11.7-9.5,21.2-21.2,21.2h-37c-11.7,0-21.2-9.5-21.2-21.2
+				V63.5C52.9,51.8,62.4,42.3,74.1,42.3z"/>
+			<path class="st2" d="M111.1,142.8h-37c-11.7,0-21.1-9.5-21.2-21.1V63.5c0-11.7,9.5-21.1,21.1-21.2h37c11.7,0,21.1,9.5,21.2,21.1
+				v58.2C132.2,133.3,122.7,142.8,111.1,142.8z M74,47.6c-8.8,0-15.9,7.1-15.9,15.9c0,0,0,0,0,0v58.2c0,8.8,7.1,15.9,15.9,15.9
+				c0,0,0,0,0,0h37c8.8,0,15.9-7.1,15.9-15.9V63.5c0-8.8-7.1-15.9-15.8-15.9H74z"/>
+		</g>
+		<g id="Line_80">
+			<rect x="67.5" y="99.6" class="st2" width="50.1" height="5.3"/>
+		</g>
+		<g id="Line_81">
+			<rect x="67.5" y="115" class="st2" width="50.1" height="5.3"/>
+		</g>
+		<g id="Line_82">
+			<rect x="67.5" y="84.1" class="st2" width="23.1" height="5.3"/>
+		</g>
+		<g id="Polygon_1">
+			<polygon class="st2" points="117.6,74.1 114.6,77.3 112.3,81 108,80.6 103.7,81 101.3,77.3 98.3,74.1 99.8,69.9 100.2,65.5 
+				104.3,64.1 108,61.7 111.7,64.1 115.7,65.5 116.2,69.9 			"/>
+		</g>
+	</g>
+</g>
+</svg>

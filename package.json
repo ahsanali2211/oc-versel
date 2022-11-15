@@ -1,0 +1,36 @@
+{
+  "name": "online-consultation",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "watch": "vite build --watch --mode production"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.12.5",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.1",
+    "firebase": "^9.10.0",
+    "html-to-pdfmake": "^2.3.11",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.1",
+    "jspdf": "^2.5.1",
+    "moment-timezone": "^0.5.37",
+    "pdfmake": "^0.2.5",
+    "pinia": "^2.0.11",
+    "pusher-js": "^7.4.0",
+    "quasar": "^2.5.5",
+    "uuid": "^8.3.2",
+    "vue": "^3.2.25",
+    "vue3-cookies": "^1.0.6",
+    "wavesurfer.js": "^6.2.0"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.5",
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.32.0",
+    "vite": "^2.8.0"
+  }
+}
